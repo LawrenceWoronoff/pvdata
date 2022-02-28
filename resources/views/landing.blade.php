@@ -911,6 +911,7 @@ Home
         var tab_animate_index_next = 0;
         var play_pause = 1;
         var play_pause_next = 1;
+        var currentSlide = 1;
         var video = $("#full_tutorial_video").attr("src");
 
         $( document ).ready(function() {    
@@ -925,6 +926,7 @@ Home
             tap:AMP.setState({ testimonialSlider: {currentSlide: 1}});
 
             var timer1 = setInterval(tabAnimation, 7000); 
+            var timer2 = setInterval(customerAnimation, 10000);
         });
         function resetVideo()
         {
@@ -973,6 +975,15 @@ Home
             setButtonIcons(play_pause);
             setButtonIconsNext(play_pause_next);
         }            
+
+        function customerAnimation()
+        {
+            currentSlide = currentSlide + 1;
+            if(currentSlide > 3)
+                currentSlide = 1;
+
+            tap:AMP.setState({ testimonialSlider: {currentSlide: currentSlide }})
+        }
 
         function play_pause_func(obj)
         {
