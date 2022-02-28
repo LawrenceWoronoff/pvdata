@@ -412,83 +412,6 @@ Home
                     <h2 class="screenreader">Customer Testimonials </h2>
                     <div class="mt0 mw900 mx-auto relative testimonial-container w-100p">
                         <div class="absolute left0 o-100 pointer-events-all right0 testimonial-slide top0" data-amp-bind-class="'testimonial-slide absolute top0 left0 right0' + (testimonialSlider.currentSlide != 1 ? ' o-0 pointer-events-none z0' : ' o-100 pointer-events-all')" id="slideNum1">
-                            <!-- <div class="dn-l flex items-center justify-between mb400 mw-83p-m mx-auto w-100p">
-                                
-                                <div class="flex justify-center px350-ns px450">
-                                    <button class="bg--neutral-200 br--round button-reset c--neutral-800 flex hover-bg--neutral-300 hover-c--neutral-800 items-center justify-center overflow-visible pa0 square500" on="tap:AMP.setState({ testimonialSlider: {currentSlide: testimonialSlider.currentSlide&gt; 1 ? testimonialSlider.currentSlide - 1 : 3 }})">
-                                        <span class="screenreader">Previous Testimonial</span>
-                                        <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" height="16" role="img" viewbox="0 0 256 512" width="16">
-                                            <path d="M231.293 473.899l19.799-19.799c4.686-4.686 4.686-12.284 0-16.971L70.393 256 251.092 74.87c4.686-4.686 4.686-12.284 0-16.971L231.293 38.1c-4.686-4.686-12.284-4.686-16.971 0L4.908 247.515c-4.686 4.686-4.686 12.284 0 16.971L214.322 473.9c4.687 4.686 12.285 4.686 16.971-.001z" fill="currentColor"></path>
-                                        </svg>
-                                    </button>
-                                    <button class="bg--neutral-200 br--round button-reset c--neutral-800 flex hover-bg--neutral-300 hover-c--neutral-800 items-center justify-center ml400 overflow-visible pa0 square500" on="tap:AMP.setState({ testimonialSlider: {currentSlide: testimonialSlider.currentSlide &lt; 3 ? testimonialSlider.currentSlide + 1 : 1}})">
-                                        <span class="screenreader">Next Testimonial</span>
-                                        <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" height="16" role="img" viewbox="0 0 256 512" width="16">
-                                            <path d="M24.707 38.101L4.908 57.899c-4.686 4.686-4.686 12.284 0 16.971L185.607 256 4.908 437.13c-4.686 4.686-4.686 12.284 0 16.971L24.707 473.9c4.686 4.686 12.284 4.686 16.971 0l209.414-209.414c4.686-4.686 4.686-12.284 0-16.971L41.678 38.101c-4.687-4.687-12.285-4.687-16.971 0z" fill="currentColor"></path>
-                                        </svg>
-                                    </button>
-                                </div>
-                            </div> -->
-                            <div class="flex flex-column-reverse flex-row-ns items-center items-stretch-ns mb500-m mw-83p-m mx-auto relative w-100p">
-                                <div class="mb0-ns mb450 mw-30p-m mw-33p-l px350-ns px450 w-100p">
-                                    <amp-img alt="Headshot of Katie Bisbee" class="db-l dn h-auto w-100p i-amphtml-layout-responsive i-amphtml-layout-size-defined" height="1174" layout="responsive" src="{{ url('assets/Customer/taylor segreti.jpg') }}" width="784" i-amphtml-layout="responsive" style="min-height: 0% !important; height:80%;">
-                                        <i-amphtml-sizer style="display:block;padding-top:149.7449%;"></i-amphtml-sizer>
-                                    </amp-img>
-                                    <amp-img alt="Headshot of Katie Bisbee" class="db-m dn h-auto w-100p i-amphtml-layout-responsive i-amphtml-layout-size-defined" height="462" layout="responsive" src="{{ url('assets/Customer/taylor segreti.jpg') }}" width="324" i-amphtml-layout="responsive">
-                                        <i-amphtml-sizer style="display:block;padding-top:142.5926%;"></i-amphtml-sizer>
-                                    </amp-img>
-                                    <amp-img alt="Headshot of Katie Bisbee" class="db dn-ns h-auto w-100p i-amphtml-layout-responsive i-amphtml-layout-size-defined" height="656" layout="responsive" src="{{ url('assets/Customer/taylor segreti.jpg') }}" width="656" i-amphtml-layout="responsive">
-                                        <i-amphtml-sizer style="display:block;padding-top:100.0000%;"></i-amphtml-sizer>
-                                    </amp-img> 
-                                </div>
-                                <div class="flex flex-column justify-between-l justify-start-m mb0-ns mb450 mw-50p-l mw-70p-m mx-auto-l px350-ns px450 w-100p" style="height: 80%;">
-                                    <!-- <div class="dn flex-column-reverse flex-l h-100p h-auto-l mt700-l" style="margin-top: 20px; margin-bottom: 20px;">
-                                        
-                                        <div class="flex justify-center self-end">
-                                            <button class="bg--neutral-200 br--round button-reset c--neutral-800 flex hover-bg--neutral-300 hover-c--neutral-800 items-center justify-center overflow-visible pa0 square500" on="tap:AMP.setState({ testimonialSlider: {currentSlide: 3 }})">
-                                                <span class="screenreader">Previous Testimonial</span>
-                                                <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" height="16" role="img" viewbox="0 0 256 512" width="16">
-                                                    <path d="M231.293 473.899l19.799-19.799c4.686-4.686 4.686-12.284 0-16.971L70.393 256 251.092 74.87c4.686-4.686 4.686-12.284 0-16.971L231.293 38.1c-4.686-4.686-12.284-4.686-16.971 0L4.908 247.515c-4.686 4.686-4.686 12.284 0 16.971L214.322 473.9c4.687 4.686 12.285 4.686 16.971-.001z" fill="currentColor"></path>
-                                                </svg>
-                                            </button>
-                                            <button class="bg--neutral-200 br--round button-reset c--neutral-800 flex hover-bg--neutral-300 hover-c--neutral-800 items-center justify-center ml400 overflow-visible pa0 square500" on="tap:AMP.setState({ testimonialSlider: {currentSlide: 2 }})">
-                                                <span class="screenreader">Next Testimonial</span>
-                                                <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" height="16" role="img" viewbox="0 0 256 512" width="16">
-                                                    <path d="M24.707 38.101L4.908 57.899c-4.686 4.686-4.686 12.284 0 16.971L185.607 256 4.908 437.13c-4.686 4.686-4.686 12.284 0 16.971L24.707 473.9c4.686 4.686 12.284 4.686 16.971 0l209.414-209.414c4.686-4.686 4.686-12.284 0-16.971L41.678 38.101c-4.687-4.687-12.285-4.687-16.971 0z" fill="currentColor"></path>
-                                                </svg>
-                                            </button>
-                                        </div>
-                                    </div> -->
-                                    <div class="mb500-l" style="margin-bottom: 4.77778rem; margin-top: 2rem;">
-                                        <blockquote class="f500-m f600-l f700 ff-recoleta fw-semibold">This is an exciting data tool that enables me to structure multiple solar deals within minutes. It gives me the full flexibility to structure deals that matches my clients specifications. PVDATA automates the entire project finance modelling for you which makes my work much easier. </blockquote>
-                                        <p class="f300-l f400-m f500 mt400">Taylor S., Associate at CIBC Capital Markets</p>
-                                    </div>
-                                    <div class="b--neutral-200 bt dn flex-l items-center justify-between pt500" >
-                                        <div class="inline-flex">
-                                            <!-- <button class="bg-transparent bn button-reset c--aqua-1100 flex items-center mr400 overflow-visible pa0 square400" data-amp-bind-class="'mr400 button-reset pa0 overflow-visible bg-transparent bn flex items-center square400 ' + (testimonialSlider.currentSlide == 1 ? 'c--aqua-1100 ' : 'c--neutral-500 ')" on="tap:AMP.setState({ testimonialSlider: {currentSlide: 1 }})">
-                                                <span class="screenreader" data-amp-bind-text="(testimonialSlider.currentSlide == 1 ? 'Currently on slide ' : 'Go to slide ') + 1 + ' of ' + 3">1 of 3</span>
-                                                <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" class="overflow-visible" focusable="false" height="16" role="img" viewbox="0 0 512 512" width="16">
-                                                    <path d="M256 8C119 8 8 119 8 256s111 248 248 248 248-111 248-248S393 8 256 8z" fill="currentColor"></path>
-                                                </svg>
-                                            </button>
-                                            <button class="bg-transparent bn button-reset c--neutral-500 flex items-center mr400 overflow-visible pa0 square400" data-amp-bind-class="'mr400 button-reset pa0 overflow-visible bg-transparent bn flex items-center square400 ' + (testimonialSlider.currentSlide == 2 ? 'c--aqua-1100 ' : 'c--neutral-500 ')" on="tap:AMP.setState({ testimonialSlider: {currentSlide: 2 }})">
-                                                <span class="screenreader" data-amp-bind-text="(testimonialSlider.currentSlide == 2 ? 'Currently on slide ' : 'Go to slide ') + 2 + ' of ' + 3">2 of 3</span>
-                                                <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" class="overflow-visible" focusable="false" height="16" role="img" viewbox="0 0 512 512" width="16">
-                                                    <path d="M256 8C119 8 8 119 8 256s111 248 248 248 248-111 248-248S393 8 256 8z" fill="currentColor"></path>
-                                                </svg>
-                                            </button>
-                                            <button class="bg-transparent bn button-reset c--neutral-500 flex items-center overflow-visible pa0 square400" data-amp-bind-class="' button-reset pa0 overflow-visible bg-transparent bn flex items-center square400 ' + (testimonialSlider.currentSlide == 3 ? 'c--aqua-1100 ' : 'c--neutral-500 ')" on="tap:AMP.setState({ testimonialSlider: {currentSlide: 3 }})">
-                                                <span class="screenreader" data-amp-bind-text="(testimonialSlider.currentSlide == 3 ? 'Currently on slide ' : 'Go to slide ') + 3 + ' of ' + 3">3 of 3</span>
-                                                <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" class="overflow-visible" focusable="false" height="16" role="img" viewbox="0 0 512 512" width="16">
-                                                    <path d="M256 8C119 8 8 119 8 256s111 248 248 248 248-111 248-248S393 8 256 8z" fill="currentColor"></path>
-                                                </svg>
-                                            </button> -->
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- <div class="absolute left0 o-0 pointer-events-none right0 testimonial-slide top0 z0" data-amp-bind-class="'testimonial-slide absolute top0 left0 right0' + (testimonialSlider.currentSlide != 2 ? ' o-0 pointer-events-none z0' : ' o-100 pointer-events-all')" id="slideNum2">
                             <div class="dn-l flex items-center justify-between mb400 mw-83p-m mx-auto w-100p">
                                 
                                 <div class="flex justify-center px350-ns px450">
@@ -508,13 +431,90 @@ Home
                             </div>
                             <div class="flex flex-column-reverse flex-row-ns items-center items-stretch-ns mb500-m mw-83p-m mx-auto relative w-100p">
                                 <div class="mb0-ns mb450 mw-30p-m mw-33p-l px350-ns px450 w-100p">
-                                    <amp-img alt="Headshot of Aaron Bata" class="db-l dn h-auto w-100p i-amphtml-layout-responsive i-amphtml-layout-size-defined" height="1174" layout="responsive" src="{{ url('assets/Customer/taylor segreti.jpg') }}" width="784" i-amphtml-layout="responsive" style="min-height: 0%; height: 80%;">
+                                    <amp-img alt="Headshot of Katie Bisbee" class="db-l dn h-auto w-100p i-amphtml-layout-responsive i-amphtml-layout-size-defined" height="1174" layout="responsive" src="{{ url('assets/Customer/taylor segreti.jpg') }}" width="784" i-amphtml-layout="responsive" style="min-height: 0% !important; height:80%;">
                                         <i-amphtml-sizer style="display:block;padding-top:149.7449%;"></i-amphtml-sizer>
                                     </amp-img>
-                                    <amp-img alt="Headshot of Aaron Bata" class="db-m dn h-auto w-100p i-amphtml-layout-responsive i-amphtml-layout-size-defined" height="462" layout="responsive" src="{{ url('assets/Customer/taylor segreti.jpg') }}" width="324" i-amphtml-layout="responsive">
+                                    <amp-img alt="Headshot of Katie Bisbee" class="db-m dn h-auto w-100p i-amphtml-layout-responsive i-amphtml-layout-size-defined" height="462" layout="responsive" src="{{ url('assets/Customer/taylor segreti.jpg') }}" width="324" i-amphtml-layout="responsive">
                                         <i-amphtml-sizer style="display:block;padding-top:142.5926%;"></i-amphtml-sizer>
                                     </amp-img>
-                                    <amp-img alt="Headshot of Aaron Bata" class="db dn-ns h-auto w-100p i-amphtml-layout-responsive i-amphtml-layout-size-defined" height="657" layout="responsive" src="{{ url('assets/Customer/taylor segreti.jpg') }}" width="656" i-amphtml-layout="responsive">
+                                    <amp-img alt="Headshot of Katie Bisbee" class="db dn-ns h-auto w-100p i-amphtml-layout-responsive i-amphtml-layout-size-defined" height="656" layout="responsive" src="{{ url('assets/Customer/taylor segreti.jpg') }}" width="656" i-amphtml-layout="responsive">
+                                        <i-amphtml-sizer style="display:block;padding-top:100.0000%;"></i-amphtml-sizer>
+                                    </amp-img> 
+                                </div>
+                                <div class="flex flex-column justify-between-l justify-start-m mb0-ns mb450 mw-50p-l mw-70p-m mx-auto-l px350-ns px450 w-100p" style="height: 80%;">
+                                    <div class="dn flex-column-reverse flex-l h-100p h-auto-l mt700-l" style="margin-top: 20px; margin-bottom: 20px;">
+                                        
+                                        <div class="flex justify-center self-end">
+                                            <button class="bg--neutral-200 br--round button-reset c--neutral-800 flex hover-bg--neutral-300 hover-c--neutral-800 items-center justify-center overflow-visible pa0 square500" on="tap:AMP.setState({ testimonialSlider: {currentSlide: 3 }})">
+                                                <span class="screenreader">Previous Testimonial</span>
+                                                <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" height="16" role="img" viewbox="0 0 256 512" width="16">
+                                                    <path d="M231.293 473.899l19.799-19.799c4.686-4.686 4.686-12.284 0-16.971L70.393 256 251.092 74.87c4.686-4.686 4.686-12.284 0-16.971L231.293 38.1c-4.686-4.686-12.284-4.686-16.971 0L4.908 247.515c-4.686 4.686-4.686 12.284 0 16.971L214.322 473.9c4.687 4.686 12.285 4.686 16.971-.001z" fill="currentColor"></path>
+                                                </svg>
+                                            </button>
+                                            <button class="bg--neutral-200 br--round button-reset c--neutral-800 flex hover-bg--neutral-300 hover-c--neutral-800 items-center justify-center ml400 overflow-visible pa0 square500" on="tap:AMP.setState({ testimonialSlider: {currentSlide: 2 }})">
+                                                <span class="screenreader">Next Testimonial</span>
+                                                <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" height="16" role="img" viewbox="0 0 256 512" width="16">
+                                                    <path d="M24.707 38.101L4.908 57.899c-4.686 4.686-4.686 12.284 0 16.971L185.607 256 4.908 437.13c-4.686 4.686-4.686 12.284 0 16.971L24.707 473.9c4.686 4.686 12.284 4.686 16.971 0l209.414-209.414c4.686-4.686 4.686-12.284 0-16.971L41.678 38.101c-4.687-4.687-12.285-4.687-16.971 0z" fill="currentColor"></path>
+                                                </svg>
+                                            </button>
+                                        </div>
+                                    </div>
+                                    <div class="mb500-l" style="margin-bottom: 4.77778rem; margin-top: 2rem;">
+                                        <blockquote class="f500-m f600-l f700 ff-recoleta fw-semibold">This is an exciting data tool that enables me to structure multiple solar deals within minutes. It gives me the full flexibility to structure deals that matches my clients specifications. PVDATA automates the entire project finance modelling for you which makes my work much easier. </blockquote>
+                                        <p class="f300-l f400-m f500 mt400">Taylor S., Associate at CIBC Capital Markets</p>
+                                    </div>
+                                    <div class="b--neutral-200 bt dn flex-l items-center justify-between pt500" >
+                                        <div class="inline-flex">
+                                            <button class="bg-transparent bn button-reset c--aqua-1100 flex items-center mr400 overflow-visible pa0 square400" data-amp-bind-class="'mr400 button-reset pa0 overflow-visible bg-transparent bn flex items-center square400 ' + (testimonialSlider.currentSlide == 1 ? 'c--aqua-1100 ' : 'c--neutral-500 ')" on="tap:AMP.setState({ testimonialSlider: {currentSlide: 1 }})">
+                                                <span class="screenreader" data-amp-bind-text="(testimonialSlider.currentSlide == 1 ? 'Currently on slide ' : 'Go to slide ') + 1 + ' of ' + 3">1 of 3</span>
+                                                <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" class="overflow-visible" focusable="false" height="16" role="img" viewbox="0 0 512 512" width="16">
+                                                    <path d="M256 8C119 8 8 119 8 256s111 248 248 248 248-111 248-248S393 8 256 8z" fill="currentColor"></path>
+                                                </svg>
+                                            </button>
+                                            <button class="bg-transparent bn button-reset c--neutral-500 flex items-center mr400 overflow-visible pa0 square400" data-amp-bind-class="'mr400 button-reset pa0 overflow-visible bg-transparent bn flex items-center square400 ' + (testimonialSlider.currentSlide == 2 ? 'c--aqua-1100 ' : 'c--neutral-500 ')" on="tap:AMP.setState({ testimonialSlider: {currentSlide: 2 }})">
+                                                <span class="screenreader" data-amp-bind-text="(testimonialSlider.currentSlide == 2 ? 'Currently on slide ' : 'Go to slide ') + 2 + ' of ' + 3">2 of 3</span>
+                                                <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" class="overflow-visible" focusable="false" height="16" role="img" viewbox="0 0 512 512" width="16">
+                                                    <path d="M256 8C119 8 8 119 8 256s111 248 248 248 248-111 248-248S393 8 256 8z" fill="currentColor"></path>
+                                                </svg>
+                                            </button>
+                                            <button class="bg-transparent bn button-reset c--neutral-500 flex items-center overflow-visible pa0 square400" data-amp-bind-class="' button-reset pa0 overflow-visible bg-transparent bn flex items-center square400 ' + (testimonialSlider.currentSlide == 3 ? 'c--aqua-1100 ' : 'c--neutral-500 ')" on="tap:AMP.setState({ testimonialSlider: {currentSlide: 3 }})">
+                                                <span class="screenreader" data-amp-bind-text="(testimonialSlider.currentSlide == 3 ? 'Currently on slide ' : 'Go to slide ') + 3 + ' of ' + 3">3 of 3</span>
+                                                <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" class="overflow-visible" focusable="false" height="16" role="img" viewbox="0 0 512 512" width="16">
+                                                    <path d="M256 8C119 8 8 119 8 256s111 248 248 248 248-111 248-248S393 8 256 8z" fill="currentColor"></path>
+                                                </svg>
+                                            </button>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="absolute left0 o-0 pointer-events-none right0 testimonial-slide top0 z0" data-amp-bind-class="'testimonial-slide absolute top0 left0 right0' + (testimonialSlider.currentSlide != 2 ? ' o-0 pointer-events-none z0' : ' o-100 pointer-events-all')" id="slideNum2">
+                            <div class="dn-l flex items-center justify-between mb400 mw-83p-m mx-auto w-100p">
+                                
+                                <div class="flex justify-center px350-ns px450">
+                                    <button class="bg--neutral-200 br--round button-reset c--neutral-800 flex hover-bg--neutral-300 hover-c--neutral-800 items-center justify-center overflow-visible pa0 square500" on="tap:AMP.setState({ testimonialSlider: {currentSlide: testimonialSlider.currentSlide&gt; 1 ? testimonialSlider.currentSlide - 1 : 3 }})">
+                                        <span class="screenreader">Previous Testimonial</span>
+                                        <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" height="16" role="img" viewbox="0 0 256 512" width="16">
+                                            <path d="M231.293 473.899l19.799-19.799c4.686-4.686 4.686-12.284 0-16.971L70.393 256 251.092 74.87c4.686-4.686 4.686-12.284 0-16.971L231.293 38.1c-4.686-4.686-12.284-4.686-16.971 0L4.908 247.515c-4.686 4.686-4.686 12.284 0 16.971L214.322 473.9c4.687 4.686 12.285 4.686 16.971-.001z" fill="currentColor"></path>
+                                        </svg>
+                                    </button>
+                                    <button class="bg--neutral-200 br--round button-reset c--neutral-800 flex hover-bg--neutral-300 hover-c--neutral-800 items-center justify-center ml400 overflow-visible pa0 square500" on="tap:AMP.setState({ testimonialSlider: {currentSlide: testimonialSlider.currentSlide &lt; 3 ? testimonialSlider.currentSlide + 1 : 1}})">
+                                        <span class="screenreader">Next Testimonial</span>
+                                        <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" height="16" role="img" viewbox="0 0 256 512" width="16">
+                                            <path d="M24.707 38.101L4.908 57.899c-4.686 4.686-4.686 12.284 0 16.971L185.607 256 4.908 437.13c-4.686 4.686-4.686 12.284 0 16.971L24.707 473.9c4.686 4.686 12.284 4.686 16.971 0l209.414-209.414c4.686-4.686 4.686-12.284 0-16.971L41.678 38.101c-4.687-4.687-12.285-4.687-16.971 0z" fill="currentColor"></path>
+                                        </svg>
+                                    </button>
+                                </div>
+                            </div>
+                            <div class="flex flex-column-reverse flex-row-ns items-center items-stretch-ns mb500-m mw-83p-m mx-auto relative w-100p">
+                                <div class="mb0-ns mb450 mw-30p-m mw-33p-l px350-ns px450 w-100p">
+                                    <amp-img alt="Headshot of Aaron Bata" class="db-l dn h-auto w-100p i-amphtml-layout-responsive i-amphtml-layout-size-defined" height="1174" layout="responsive" src="{{ url('assets/Customer/TT Pic.jpg') }}" width="784" i-amphtml-layout="responsive" style="min-height: 0%; height: 80%;">
+                                        <i-amphtml-sizer style="display:block;padding-top:149.7449%;"></i-amphtml-sizer>
+                                    </amp-img>
+                                    <amp-img alt="Headshot of Aaron Bata" class="db-m dn h-auto w-100p i-amphtml-layout-responsive i-amphtml-layout-size-defined" height="462" layout="responsive" src="{{ url('assets/Customer/TT Pic.jpg') }}" width="324" i-amphtml-layout="responsive">
+                                        <i-amphtml-sizer style="display:block;padding-top:142.5926%;"></i-amphtml-sizer>
+                                    </amp-img>
+                                    <amp-img alt="Headshot of Aaron Bata" class="db dn-ns h-auto w-100p i-amphtml-layout-responsive i-amphtml-layout-size-defined" height="657" layout="responsive" src="{{ url('assets/Customer/TT Pic.jpg') }}" width="656" i-amphtml-layout="responsive">
                                         <i-amphtml-sizer style="display:block;padding-top:100.1524%;"></i-amphtml-sizer>
                                     </amp-img>
                                 </div>
@@ -537,7 +537,7 @@ Home
                                         </div>
                                     </div>
                                     <div class="mb500-l"  style="margin-bottom: 4.77778rem; margin-top: 2rem;">
-                                        <blockquote class="f500-m f600-l f700 ff-recoleta fw-semibold">2. This is an exciting data tool that enables me to structure multiple solar deals within minutes. It gives me the full flexibility to structure deals that matches my clients specifications. PVDATA automates the entire project finance modelling for you which makes my work much easier. </blockquote> <p class="f300-l f400-m f500 mt400">Aaron Bata, Head of Customer Experience at Tuft &amp;Needle</p>
+                                        <blockquote class="f500-m f600-l f700 ff-recoleta fw-semibold">Looking at PVDATA and the different functionalities I’ve experienced, I still can’t believe how easy it has made my job. To be able to analyse and develop a solar project in such comprehensive manner and get a proper sense of the finance ability in less than 1 minute is just breath-taking. </blockquote> <p class="f300-l f400-m f500 mt400">Tony Tiyou, CEO, Renewables in Africa</p>
                                     </div>
                                     <div class="b--neutral-200 bt dn flex-l items-center justify-between pt500">
                                         <div class="inline-flex">
@@ -641,7 +641,7 @@ Home
                                     </div>
                                 </div>
                             </div>
-                        </div> -->
+                        </div>
                         <div aria-hidden="true" class="o-0 pointer-events-none testimonial-slide-sizer z-0" id="slideSizer">
                             <div class="dn-l flex items-center justify-between mb400 mw-83p-m mx-auto w-100p">
                                 
@@ -718,7 +718,7 @@ Home
                                 </div>
                             </div>
                         </div>
-                        <!-- <div class="mw-83p-m mx-auto w-100p z3">
+                        <div class="mw-83p-m mx-auto w-100p z3">
                             <div class="b--neutral-200 bt db dn-l flex items-center justify-between mx350-ns mx450 pt500">
                                 <div class="inline-flex">
                                     <button class="bg-transparent bn button-reset c--aqua-1100 flex items-center mr400 overflow-visible pa0 square400" data-amp-bind-class="'mr400 button-reset pa0 overflow-visible bg-transparent bn flex items-center square400 ' + (testimonialSlider.currentSlide == 1 ? 'c--aqua-1100 ' : 'c--neutral-500 ')" on="tap:AMP.setState({ testimonialSlider: {currentSlide: 1 }})">
@@ -741,7 +741,7 @@ Home
                                     </button>
                                 </div>
                             </div>
-                        </div> -->
+                        </div>
                     </div>
                 </div>
             </div>
