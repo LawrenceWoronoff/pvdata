@@ -4429,24 +4429,24 @@
                         </div>
                         <div class="dn db-l" data-amp-bind-class="navState.mobile ? 'db w-100p' : 'dn db-l'">
                             <div class="bg--aqua-1100 bg--neutral-100-l flex inline-flex-l flex-column flex-row-l h500-l items-center-l w-100p">
-                                <div class="db flex-l">
-                                    <div class="flex items-center mobile-menu">
-                                        <a on="tap:contact-modal.open,AMP.setState({newsletterForm: {details: 'NewsletterSignup-FooterDesktop'}})">
-                                        <span class="dn dib-l fw-bold mr400" style="color:black">Book a meeting</span>
-                                        <!-- <span class="fdn dib-l w-bold fw-normal-l" style="padding-right:20px; color:black">sales</span> -->
-                                        </a>
-                                    </div>
-                                    <div class="flex items-center">
-                                        <!-- <a style="color:black " on="tap:getintouch-modal.open,AMP.setState({newsletterForm: {details: 'NewsletterSignup-FooterDesktop'}})"><svg class="h450 h400-l mr350 mr0-l" height="16" role="img" viewbox="0 0 512 512" width="16" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" style="margin-right:10px;">
-                                            <path fill="currentColor" d="M502.3 190.8c3.9-3.1 9.7-.2 9.7 4.7V400c0 26.5-21.5 48-48 48H48c-26.5 0-48-21.5-48-48V195.6c0-5 5.7-7.8 9.7-4.7 22.4 17.4 52.1 39.5 154.1 113.6 21.1 15.4 56.7 47.8 92.2 47.6 35.7.3 72-32.8 92.3-47.6 102-74.1 131.6-96.3 154-113.7zM256 320c23.2.4 56.6-29.2 73.4-41.4 132.7-96.3 142.8-104.7 173.4-128.7 5.8-4.5 9.2-11.5 9.2-18.9v-19c0-26.5-21.5-48-48-48H48C21.5 64 0 85.5 0 112v19c0 7.4 3.4 14.3 9.2 18.9 30.6 23.9 40.7 32.4 173.4 128.7 16.8 12.2 50.2 41.8 73.4 41.4z"></path>
-                                        </svg></a> -->
-                                       
-                                        <a aria-label="Schedule a demo" class="c--text-inverse c--text-l dn mr400-l inline-flex-l items-center hover-no-underline" href="" title="Schedule a demo">
-                                            <svg class="h400-l" height="14" role="img" viewbox="0 0 448 512" width="16" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false">
-                                                <path fill="currentColor" d="M0 464c0 26.5 21.5 48 48 48h352c26.5 0 48-21.5 48-48V192H0v272zm320-196c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v40c0 6.6-5.4 12-12 12h-40c-6.6 0-12-5.4-12-12v-40zm0 128c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v40c0 6.6-5.4 12-12 12h-40c-6.6 0-12-5.4-12-12v-40zM192 268c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v40c0 6.6-5.4 12-12 12h-40c-6.6 0-12-5.4-12-12v-40zm0 128c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v40c0 6.6-5.4 12-12 12h-40c-6.6 0-12-5.4-12-12v-40zM64 268c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v40c0 6.6-5.4 12-12 12H76c-6.6 0-12-5.4-12-12v-40zm0 128c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v40c0 6.6-5.4 12-12 12H76c-6.6 0-12-5.4-12-12v-40zM400 64h-48V16c0-8.8-7.2-16-16-16h-32c-8.8 0-16 7.2-16 16v48H160V16c0-8.8-7.2-16-16-16h-32c-8.8 0-16 7.2-16 16v48H48C21.5 64 0 85.5 0 112v48h448v-48c0-26.5-21.5-48-48-48z"></path>
-                                            </svg>
-                                        </a>
-                                    </div>
+                                <div class="db flex-l" style="cursor:pointer">
+                                    <a href="https://calendly.com/pvdata_meeting" target="_blank">
+                                        <div class="flex items-center mobile-menu">
+                                            <span class="dn dib-l fw-bold mr400" style="color:black;">Book a meeting</span>
+                                            <!-- <span class="fdn dib-l w-bold fw-normal-l" style="padding-right:20px; color:black">sales</span> -->
+                                        </div>
+                                        <div class="flex items-center">
+                                            <!-- <a style="color:black " on="tap:getintouch-modal.open,AMP.setState({newsletterForm: {details: 'NewsletterSignup-FooterDesktop'}})"><svg class="h450 h400-l mr350 mr0-l" height="16" role="img" viewbox="0 0 512 512" width="16" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" style="margin-right:10px;">
+                                                <path fill="currentColor" d="M502.3 190.8c3.9-3.1 9.7-.2 9.7 4.7V400c0 26.5-21.5 48-48 48H48c-26.5 0-48-21.5-48-48V195.6c0-5 5.7-7.8 9.7-4.7 22.4 17.4 52.1 39.5 154.1 113.6 21.1 15.4 56.7 47.8 92.2 47.6 35.7.3 72-32.8 92.3-47.6 102-74.1 131.6-96.3 154-113.7zM256 320c23.2.4 56.6-29.2 73.4-41.4 132.7-96.3 142.8-104.7 173.4-128.7 5.8-4.5 9.2-11.5 9.2-18.9v-19c0-26.5-21.5-48-48-48H48C21.5 64 0 85.5 0 112v19c0 7.4 3.4 14.3 9.2 18.9 30.6 23.9 40.7 32.4 173.4 128.7 16.8 12.2 50.2 41.8 73.4 41.4z"></path>
+                                            </svg></a> -->
+                                        
+                                            <a aria-label="Schedule a demo" class="c--text-inverse c--text-l dn mr400-l inline-flex-l items-center hover-no-underline" href="https://calendly.com/pvdata_meeting" title="Schedule a demo" target="_blank">
+                                                <svg class="h400-l" height="14" role="img" viewbox="0 0 448 512" width="16" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false">
+                                                    <path fill="currentColor" d="M0 464c0 26.5 21.5 48 48 48h352c26.5 0 48-21.5 48-48V192H0v272zm320-196c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v40c0 6.6-5.4 12-12 12h-40c-6.6 0-12-5.4-12-12v-40zm0 128c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v40c0 6.6-5.4 12-12 12h-40c-6.6 0-12-5.4-12-12v-40zM192 268c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v40c0 6.6-5.4 12-12 12h-40c-6.6 0-12-5.4-12-12v-40zm0 128c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v40c0 6.6-5.4 12-12 12h-40c-6.6 0-12-5.4-12-12v-40zM64 268c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v40c0 6.6-5.4 12-12 12H76c-6.6 0-12-5.4-12-12v-40zm0 128c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v40c0 6.6-5.4 12-12 12H76c-6.6 0-12-5.4-12-12v-40zM400 64h-48V16c0-8.8-7.2-16-16-16h-32c-8.8 0-16 7.2-16 16v48H160V16c0-8.8-7.2-16-16-16h-32c-8.8 0-16 7.2-16 16v48H48C21.5 64 0 85.5 0 112v48h448v-48c0-26.5-21.5-48-48-48z"></path>
+                                                </svg>
+                                            </a>
+                                        </div>
+                                    </a>
                                 </div>
                                 <div class="dn db-l">
                                     <div class="relative-l my-auto w-100p w-auto-l bl-l b--neutral-600-l">
@@ -4527,7 +4527,7 @@
                                 </li>
                             </ul>
                             <div class="relative-l my-auto w-100p w-auto-l bl-l b--neutral-600-l dn-l">
-                                <a class="c--text-inverse c--text-l db f500 f300-l fw-bold mr400-l pa400"  on="tap:AMP.setState({ navState: false})" href="{{ route('landing')}}">
+                                <a class="c--text-inverse c--text-l db f500 f300-l fw-bold mr400-l pa400" href="https://calendly.com/pvdata_meeting" target="_blank">
                                     <span>Book a meeting</span>
                                 </a>
                                 <div class="dn" data-amp-bind-class="navState.login ? 'db w-100p w-auto-l' : 'dn'" id="header-nav-login-mobile-modal">
