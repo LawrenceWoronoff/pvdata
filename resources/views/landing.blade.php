@@ -460,7 +460,7 @@ Home
                                         </div>
                                     </div>
                                     <div class="mb500-l" style="margin-bottom: 4.77778rem; margin-top: 2rem;">
-                                        <blockquote class="f500-m f600-l f700 ff-recoleta fw-semibold">The world needs to achieve a green energy transition very fast. Solar energy is the friendliest and easiest energy source to handle. PVDATA is the most versatile and straightforward energy source to deploy. Whether you install a few Wp or a few GWp, PVDATA will guide you to the right decision in minutes. So simple that even fossil fuel companies can use it. </blockquote>
+                                        <blockquote class="f500-m f600-l f700 ff-recoleta fw-semibold">PVDATA is the most versatile and straightforward energy software to deploy. Whether you install a few Wp or a few GWp, PVDATA will guide you to the right decision in minutes. So simple that even fossil fuel companies can use it. </blockquote>
                                         <p class="f300-l f400-m f500 mt400">Dr. Ioannis Tsipouridis, Renewable Energy Consultant Engineer, Director RED Pro Climate & Energy Consultants Ltd.</p>
                                     </div>
                                     <div class="b--neutral-200 bt dn flex-l items-center justify-between pt500" >
