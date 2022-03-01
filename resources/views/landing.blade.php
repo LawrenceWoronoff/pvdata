@@ -460,8 +460,8 @@ Home
                                         </div>
                                     </div>
                                     <div class="mb500-l" style="margin-bottom: 4.77778rem; margin-top: 2rem;">
-                                        <blockquote class="f500-m f600-l f700 ff-recoleta fw-semibold">The world needs to achieve a green energy transition very fast. The latest IPCC report leaves no room for delay or inaction. Renewables are the way forward to complete the change. Solar energy is the friendliest and easiest energy source to handle. PVDATA is the most versatile and straightforward energy source to deploy. Whether you install a few Wp or a few GWp, PVDATA will guide you to the right decision in minutes. So simple that even fossil fuel companies can use it. </blockquote>
-                                        <p class="f300-l f400-m f500 mt400">Dr. Ioannis Tsipouridis Renewable Energy Consultant Engineer Director RED Pro Climate & Energy Consultants Ltd.</p>
+                                        <blockquote class="f500-m f600-l f700 ff-recoleta fw-semibold">The world needs to achieve a green energy transition very fast. Solar energy is the friendliest and easiest energy source to handle. PVDATA is the most versatile and straightforward energy source to deploy. Whether you install a few Wp or a few GWp, PVDATA will guide you to the right decision in minutes. So simple that even fossil fuel companies can use it. </blockquote>
+                                        <p class="f300-l f400-m f500 mt400">Dr. Ioannis Tsipouridis, Renewable Energy Consultant Engineer, Director RED Pro Climate & Energy Consultants Ltd.</p>
                                     </div>
                                     <div class="b--neutral-200 bt dn flex-l items-center justify-between pt500" >
                                         <div class="inline-flex">
@@ -746,6 +746,56 @@ Home
                 </div>
             </div>
         </section>
+        <!--  Customer Testimonials Section -->
+        <!-- <section class="u-align-center u-clearfix u-palette-1-base u-section-2" id="sec-5bac">
+            <div class="u-clearfix u-sheet u-valign-middle u-sheet-1">
+                <h2 class="u-custom-font u-text u-text-1">Read what our customers say</h2>
+                <div class="u-layout-grid u-list u-list-1">
+                    <div class="u-repeater u-repeater-1">
+                        <div class="u-container-style u-list-item u-radius-25 u-repeater-item u-shape-round u-white u-list-item-1">
+                            <div class="u-container-layout u-similar-container u-valign-top-lg u-valign-top-md u-valign-top-xl u-container-layout-1">
+                                <span class="u-align-left u-icon u-icon-circle u-icon-1"><svg class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 95.333 95.332" style=""><use xlink:href="#svg-a13b"></use></svg><svg class="u-svg-content" viewBox="0 0 95.333 95.332" x="0px" y="0px" id="svg-a13b" style="enable-background:new 0 0 95.333 95.332;"><g><g><path d="M30.512,43.939c-2.348-0.676-4.696-1.019-6.98-1.019c-3.527,0-6.47,0.806-8.752,1.793    c2.2-8.054,7.485-21.951,18.013-23.516c0.975-0.145,1.774-0.85,2.04-1.799l2.301-8.23c0.194-0.696,0.079-1.441-0.318-2.045    s-1.035-1.007-1.75-1.105c-0.777-0.106-1.569-0.16-2.354-0.16c-12.637,0-25.152,13.19-30.433,32.076    c-3.1,11.08-4.009,27.738,3.627,38.223c4.273,5.867,10.507,9,18.529,9.313c0.033,0.001,0.065,0.002,0.098,0.002    c9.898,0,18.675-6.666,21.345-16.209c1.595-5.705,0.874-11.688-2.032-16.851C40.971,49.307,36.236,45.586,30.512,43.939z"></path><path d="M92.471,54.413c-2.875-5.106-7.61-8.827-13.334-10.474c-2.348-0.676-4.696-1.019-6.979-1.019    c-3.527,0-6.471,0.806-8.753,1.793c2.2-8.054,7.485-21.951,18.014-23.516c0.975-0.145,1.773-0.85,2.04-1.799l2.301-8.23    c0.194-0.696,0.079-1.441-0.318-2.045c-0.396-0.604-1.034-1.007-1.75-1.105c-0.776-0.106-1.568-0.16-2.354-0.16    c-12.637,0-25.152,13.19-30.434,32.076c-3.099,11.08-4.008,27.738,3.629,38.225c4.272,5.866,10.507,9,18.528,9.312    c0.033,0.001,0.065,0.002,0.099,0.002c9.897,0,18.675-6.666,21.345-16.209C96.098,65.559,95.376,59.575,92.471,54.413z"></path></g></g></svg></span>
+                                <p class="u-text u-text-2">Proin sed libero enim sed faucibus turpis. At imperdiet dui accumsan sit amet nulla facilisi morbi tempus. Ut sem nulla pharetra diam sit amet nisl. Enim nunc</p>
+                                <div alt="" class="u-image u-image-circle u-image-1" data-image-width="211" data-image-height="211"></div>
+                                <h5 class="u-text u-text-3">Celia Almeda</h5>
+                                <h5 class="u-custom-font u-text u-text-font u-text-4">CEO Company</h5>
+                            </div>
+                        </div>
+                        <div class="u-container-style u-list-item u-radius-25 u-repeater-item u-shape-round u-white u-list-item-2">
+                            <div class="u-container-layout u-similar-container u-valign-top-lg u-valign-top-md u-valign-top-xl u-container-layout-2">
+                                <span class="u-align-left u-icon u-icon-circle u-text-palette-1-base u-icon-2"><svg class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 351.128 351.128" style=""><use xlink:href="#svg-c1b6"></use></svg><svg class="u-svg-content" viewBox="0 0 351.128 351.128" x="0px" y="0px" id="svg-c1b6" style="enable-background:new 0 0 351.128 351.128;"><g><path d="M72.326,147.33c4.284-26.928,37.944-55.692,64.26-56.304c1.836,0,3.672-0.612,4.896-1.836   c1.224-0.612,2.448-1.224,3.06-3.06c9.18-17.136,4.284-30.6-11.016-41.616c-17.748-12.852-45.9,0-59.976,11.628   C38.054,85.518,1.946,136.313,3.782,184.662c-6.12,32.437-4.896,67.32,4.284,96.084c6.12,18.36,23.868,27.54,42.228,28.764   c18.36,1.225,56.304,6.732,72.828-4.283c16.524-11.017,17.748-32.437,19.584-50.796c1.836-20.196,7.344-58.141-9.792-74.053   C115.778,165.078,66.818,181.602,72.326,147.33z"></path><path d="M274.286,147.33c4.284-26.928,37.943-55.692,64.26-56.304c1.836,0,3.672-0.612,4.896-1.836   c1.225-0.612,2.448-1.224,3.061-3.06c9.18-17.136,4.284-30.6-11.016-41.616c-17.748-12.852-45.9,0-59.977,11.628   c-35.496,29.376-71.604,80.172-69.768,128.52c-6.12,32.437-4.896,67.32,4.283,96.084c6.12,18.36,23.868,27.54,42.229,28.764   c18.36,1.225,56.304,6.732,72.828-4.283c16.523-11.017,17.748-32.437,19.584-50.796c1.836-20.196,7.344-58.141-9.792-74.053   C317.738,165.078,268.166,181.602,274.286,147.33z"></path></g></svg></span>
+                                <p class="u-text u-text-5">Proin sed libero enim sed faucibus turpis. At imperdiet dui accumsan sit amet nulla facilisi morbi tempus. Ut sem nulla pharetra diam sit amet nisl.&nbsp;</p>
+                                <div alt="" class="u-image u-image-circle u-image-2" data-image-width="211" data-image-height="211"></div>
+                                <h5 class="u-text u-text-6">Frank Kinney</h5>
+                                <h5 class="u-custom-font u-text u-text-font u-text-7">Financial Director</h5>
+                            </div>
+                        </div>
+                        <div class="u-container-style u-list-item u-radius-25 u-repeater-item u-shape-round u-white u-list-item-3">
+                            <div class="u-container-layout u-similar-container u-valign-top-lg u-valign-top-md u-valign-top-xl u-container-layout-3">
+                                <span class="u-align-left u-icon u-icon-circle u-text-palette-1-base u-icon-3"><svg class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 351.128 351.128" style=""><use xlink:href="#svg-c1b6"></use></svg><svg class="u-svg-content" viewBox="0 0 351.128 351.128" x="0px" y="0px" id="svg-c1b6" style="enable-background:new 0 0 351.128 351.128;"><g><path d="M72.326,147.33c4.284-26.928,37.944-55.692,64.26-56.304c1.836,0,3.672-0.612,4.896-1.836   c1.224-0.612,2.448-1.224,3.06-3.06c9.18-17.136,4.284-30.6-11.016-41.616c-17.748-12.852-45.9,0-59.976,11.628   C38.054,85.518,1.946,136.313,3.782,184.662c-6.12,32.437-4.896,67.32,4.284,96.084c6.12,18.36,23.868,27.54,42.228,28.764   c18.36,1.225,56.304,6.732,72.828-4.283c16.524-11.017,17.748-32.437,19.584-50.796c1.836-20.196,7.344-58.141-9.792-74.053   C115.778,165.078,66.818,181.602,72.326,147.33z"></path><path d="M274.286,147.33c4.284-26.928,37.943-55.692,64.26-56.304c1.836,0,3.672-0.612,4.896-1.836   c1.225-0.612,2.448-1.224,3.061-3.06c9.18-17.136,4.284-30.6-11.016-41.616c-17.748-12.852-45.9,0-59.977,11.628   c-35.496,29.376-71.604,80.172-69.768,128.52c-6.12,32.437-4.896,67.32,4.283,96.084c6.12,18.36,23.868,27.54,42.229,28.764   c18.36,1.225,56.304,6.732,72.828-4.283c16.523-11.017,17.748-32.437,19.584-50.796c1.836-20.196,7.344-58.141-9.792-74.053   C317.738,165.078,268.166,181.602,274.286,147.33z"></path></g></svg></span>
+                                <p class="u-text u-text-8">Proin sed libero enim sed faucibus turpis. At imperdiet dui accumsan sit amet nulla facilisi morbi tempus. Ut sem nulla pharetra diam sit amet nisl. .</p>
+                                <div alt="" class="u-image u-image-circle u-image-3" data-image-width="211" data-image-height="211"></div>
+                                <h5 class="u-text u-text-9">Phoebe Nelson</h5>
+                                <h5 class="u-custom-font u-text u-text-font u-text-10">Sales Manager</h5>
+                            </div>
+                        </div>
+                        <div class="u-container-style u-list-item u-radius-25 u-repeater-item u-shape-round u-white u-list-item-4">
+                            <div class="u-container-layout u-similar-container u-valign-top-lg u-valign-top-md u-valign-top-xl u-container-layout-4">
+                                <span class="u-align-left u-icon u-icon-circle u-text-palette-1-base u-icon-4"><svg class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 351.128 351.128" style=""><use xlink:href="#svg-c1b6"></use></svg><svg class="u-svg-content" viewBox="0 0 351.128 351.128" x="0px" y="0px" id="svg-c1b6" style="enable-background:new 0 0 351.128 351.128;"><g><path d="M72.326,147.33c4.284-26.928,37.944-55.692,64.26-56.304c1.836,0,3.672-0.612,4.896-1.836   c1.224-0.612,2.448-1.224,3.06-3.06c9.18-17.136,4.284-30.6-11.016-41.616c-17.748-12.852-45.9,0-59.976,11.628   C38.054,85.518,1.946,136.313,3.782,184.662c-6.12,32.437-4.896,67.32,4.284,96.084c6.12,18.36,23.868,27.54,42.228,28.764   c18.36,1.225,56.304,6.732,72.828-4.283c16.524-11.017,17.748-32.437,19.584-50.796c1.836-20.196,7.344-58.141-9.792-74.053   C115.778,165.078,66.818,181.602,72.326,147.33z"></path><path d="M274.286,147.33c4.284-26.928,37.943-55.692,64.26-56.304c1.836,0,3.672-0.612,4.896-1.836   c1.225-0.612,2.448-1.224,3.061-3.06c9.18-17.136,4.284-30.6-11.016-41.616c-17.748-12.852-45.9,0-59.977,11.628   c-35.496,29.376-71.604,80.172-69.768,128.52c-6.12,32.437-4.896,67.32,4.283,96.084c6.12,18.36,23.868,27.54,42.229,28.764   c18.36,1.225,56.304,6.732,72.828-4.283c16.523-11.017,17.748-32.437,19.584-50.796c1.836-20.196,7.344-58.141-9.792-74.053   C317.738,165.078,268.166,181.602,274.286,147.33z"></path></g></svg></span>
+                                <p class="u-text u-text-11">Proin sed libero enim sed faucibus turpis. At imperdiet dui accumsan sit amet nulla facilisi morbi tempus. Ut sem nulla pharetra diam sit amet nisl.</p>
+                                <div alt="" class="u-image u-image-circle u-image-4" data-image-width="211" data-image-height="211"></div>
+                                <h5 class="u-text u-text-12">Jennie Roberts</h5>
+                                <h5 class="u-custom-font u-text u-text-font u-text-13">Office Manager</h5>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <p class="u-text u-text-14">Images from <a href="https://www.freepik.com/photos/people" class="u-border-1 u-border-white u-btn u-btn-rectangle u-button-link u-button-style u-none u-text-body-alt-color u-btn-1" target="_blank">Freepik</a>
+                </p>
+            </div>
+        </section> -->
+        <!-- ------------------------------------------------ -->
+        
         <section class="py0 section"  id="blog_section">
             <div class="bg--blue-1100 c--text-inverse mw900 mx-auto py650-l py700 relative">
                 <div class="mw-83p-ns mx-auto px350-ns px450 py300-l py650-m w-100p">
