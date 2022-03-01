@@ -747,7 +747,7 @@ Home
             </div>
         </section>
         <!--  Customer Testimonials Section -->
-        <!-- <section class="u-align-center u-clearfix u-palette-1-base u-section-2" id="sec-5bac">
+        <section class="u-align-center u-clearfix u-palette-1-base u-section-2" id="sec-5bac">
             <div class="u-clearfix u-sheet u-valign-middle u-sheet-1">
                 <h2 class="u-custom-font u-text u-text-1">Read what our customers say</h2>
                 <div class="u-layout-grid u-list u-list-1">
@@ -793,7 +793,7 @@ Home
                 <p class="u-text u-text-14">Images from <a href="https://www.freepik.com/photos/people" class="u-border-1 u-border-white u-btn u-btn-rectangle u-button-link u-button-style u-none u-text-body-alt-color u-btn-1" target="_blank">Freepik</a>
                 </p>
             </div>
-        </section> -->
+        </section>
         <!-- ------------------------------------------------ -->
         
         <section class="py0 section"  id="blog_section">

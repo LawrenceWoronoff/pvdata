@@ -58,13 +58,13 @@
     margin: 60px auto 0;
 }
 
-h2:not(.u-subtitle) {
+/* h2:not(.u-subtitle) {
     font-weight: 400;
     font-size: 2.25rem;
     line-height: 1.1;
     margin-top: 20px;
     margin-bottom: 20px;
-}
+} */
 
 .u-body h1, .u-body h2, .u-body h3, .u-body h4, .u-body h5, .u-body h6 {
     padding: 0;
@@ -79,7 +79,7 @@ h2:not(.u-subtitle) {
     flex-shrink: 0;
 }
                         /* ======= inline Style  ======== */
-h2 {        
+/* h2 {        
     display: block;
     font-size: 1.5em;
     margin-block-start: 0.83em;
@@ -87,7 +87,7 @@ h2 {
     margin-inline-start: 0px;
     margin-inline-end: 0px;
     font-weight: bold;
-}
+} */
 
 .u-section-2 .u-list-1 {
     width: 1008px;
@@ -263,9 +263,9 @@ h5 {
     margin-bottom: -93px;
 }
 
-h1, h2, h3, h4, h5, h6 {
+/* h1, h2, h3, h4, h5, h6 {
     font-family: Roboto,sans-serif;
-}
+} */
 
 .u-section-2 .u-text-4 {
     font-weight: 300;
