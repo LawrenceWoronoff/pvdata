@@ -507,7 +507,7 @@ Pricing
                 <div class="_span-8 col pr900-l">
                     <h2 class="c--text-inverse f600-m f700">Questions regarding any of our plans? </h2>
                     <p>
-                        Send us a note at <a class="fw-bold no-underline-l underline wsnw" href="mailto:sales@pvdata.io">sales@pvdata.io</a>
+                        Send us a note at <a class="fw-bold no-underline-l underline wsnw" href="mailto:demo@pvdata.io">demo@pvdata.io</a>
                     </p>
                     <a class="dib fw-bold no-underline-l underline" href="#faq">
                         <div>
@@ -702,7 +702,7 @@ Pricing
                                 <div class="db-l db-p dn" data-amp-bind-class="pricingFAQ['faq_2_4'] ? 'dn db-p db-l' : 'db'">
                                     <div class="pb400">
                                         <p>
-                                            Unsure which plan is right for your business? Contact <a class="fw-bold no-underline-l underline">sales@pvdata.io</a>
+                                            Unsure which plan is right for your business? Contact <a class="fw-bold no-underline-l underline">demo@pvdata.io</a>
                                             and we’ll help you choose the best path forward based on your business goals. 
                                         </p>
                                     </div>
@@ -724,7 +724,7 @@ Pricing
                                 <div class="db-l db-p dn" data-amp-bind-class="pricingFAQ['faq_3_1'] ? 'dn db-p db-l' : 'db'">
                                     <div class="pb400">
                                         <p>
-                                            Online payment methods include major credit cards and Paypal. Prepayment options are available and allow your account to be debited monthly according to your plan and number of users. Contact <a class="fw-bold no-underline-l underline" href="mailto:sales@pvdata.io">sales@pvdata.io</a>
+                                            Online payment methods include major credit cards and Paypal. Prepayment options are available and allow your account to be debited monthly according to your plan and number of users. Contact <a class="fw-bold no-underline-l underline" href="mailto:demo@pvdata.io">demo@pvdata.io</a>
                                             to discuss these options. 
                                         </p>
                                     </div>
@@ -836,7 +836,7 @@ Pricing
                                     </amp-img>
                                     <a class="button mt450 w-100p" on="tap:contact-modal.open,AMP.setState({newsletterForm: {details: 'NewsletterSignup-FooterDesktop'}})" >Contact us </a>
                                     <p class="mt450">
-                                        Or send us an email: <a class="fw-bold no-underline-l underline" href="mailto:sales@pvdata.io">sales@pvdata.io</a>
+                                        Or send us an email: <a class="fw-bold no-underline-l underline" href="mailto:demo@pvdata.io">demo@pvdata.io</a>
                                     </p>
                                 </div>
                             </div>
@@ -934,7 +934,7 @@ Pricing
                                             <div class="db-l db-p dn" data-amp-bind-class="pricingFAQ['faq_1_4'] ? 'dn db-p db-l' : 'db'">
                                                 <div class="pb400">
                                                     <p>
-                                                        We are here to help. Please reach out to our sales team at <a href="http://sales@pvdata.io" target="_blank">sales@pvdata.io.</a>
+                                                        We are here to help. Please reach out to our sales team at <a href="http://demo@pvdata.io" target="_blank">demo@pvdata.io.</a>
                                                     </p>
                                                 </div>
                                             </div>
@@ -1010,7 +1010,7 @@ Pricing
                                             </button>
                                             <div class="db-l db-p dn" data-amp-bind-class="pricingFAQ['faq_2_4'] ? 'dn db-p db-l' : 'db'">
                                                 <div class="pb400">
-                                                    <p>Unsure which plan is right for your business? Contact <a href = "http://sales@pvdata.io" target="_blank">sales@pvdata.io</a> and we will help you choose the best plan based on your business goals.
+                                                    <p>Unsure which plan is right for your business? Contact <a href = "http://demo@pvdata.io" target="_blank">demo@pvdata.io</a> and we will help you choose the best plan based on your business goals.
                                                     </p>
                                                 </div>
                                             </div>
@@ -1052,7 +1052,7 @@ Pricing
                                             <div class="db-l db-p dn" data-amp-bind-class="pricingFAQ['faq_3_2'] ? 'dn db-p db-l' : 'db'">
                                                 <div class="pb400">
                                                     <p>
-                                                        You can reach our sales team at <a href="http://sales@pvdata.io" target="_blank">sales@pvdata.io.</a>
+                                                        You can reach our sales team at <a href="http://demo@pvdata.io" target="_blank">demo@pvdata.io.</a>
                                                     </p>
                                                 </div>
                                             </div>
