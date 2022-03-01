@@ -431,13 +431,13 @@ Home
                             </div>
                             <div class="flex flex-column-reverse flex-row-ns items-center items-stretch-ns mb500-m mw-83p-m mx-auto relative w-100p">
                                 <div class="mb0-ns mb450 mw-30p-m mw-33p-l px350-ns px450 w-100p">
-                                    <amp-img alt="Headshot of Katie Bisbee" class="db-l dn h-auto w-100p i-amphtml-layout-responsive i-amphtml-layout-size-defined" height="1174" layout="responsive" src="{{ url('assets/Customer/taylor segreti.jpg') }}" width="784" i-amphtml-layout="responsive" style="min-height: 0% !important; height:80%;">
+                                    <amp-img alt="Headshot of Katie Bisbee" class="db-l dn h-auto w-100p i-amphtml-layout-responsive i-amphtml-layout-size-defined" height="1174" layout="responsive" src="{{ url('assets/Customer/Ioannis Pic.jpeg') }}" width="784" i-amphtml-layout="responsive" style="min-height: 0% !important; height:80%;">
                                         <i-amphtml-sizer style="display:block;padding-top:149.7449%;"></i-amphtml-sizer>
                                     </amp-img>
-                                    <amp-img alt="Headshot of Katie Bisbee" class="db-m dn h-auto w-100p i-amphtml-layout-responsive i-amphtml-layout-size-defined" height="462" layout="responsive" src="{{ url('assets/Customer/taylor segreti.jpg') }}" width="324" i-amphtml-layout="responsive">
+                                    <amp-img alt="Headshot of Katie Bisbee" class="db-m dn h-auto w-100p i-amphtml-layout-responsive i-amphtml-layout-size-defined" height="462" layout="responsive" src="{{ url('assets/Customer/Ioannis Pic.jpeg') }}" width="324" i-amphtml-layout="responsive">
                                         <i-amphtml-sizer style="display:block;padding-top:142.5926%;"></i-amphtml-sizer>
                                     </amp-img>
-                                    <amp-img alt="Headshot of Katie Bisbee" class="db dn-ns h-auto w-100p i-amphtml-layout-responsive i-amphtml-layout-size-defined" height="656" layout="responsive" src="{{ url('assets/Customer/taylor segreti.jpg') }}" width="656" i-amphtml-layout="responsive">
+                                    <amp-img alt="Headshot of Katie Bisbee" class="db dn-ns h-auto w-100p i-amphtml-layout-responsive i-amphtml-layout-size-defined" height="656" layout="responsive" src="{{ url('assets/Customer/Ioannis Pic.jpeg') }}" width="656" i-amphtml-layout="responsive">
                                         <i-amphtml-sizer style="display:block;padding-top:100.0000%;"></i-amphtml-sizer>
                                     </amp-img> 
                                 </div>
@@ -460,8 +460,8 @@ Home
                                         </div>
                                     </div>
                                     <div class="mb500-l" style="margin-bottom: 4.77778rem; margin-top: 2rem;">
-                                        <blockquote class="f500-m f600-l f700 ff-recoleta fw-semibold">This is an exciting data tool that enables me to structure multiple solar deals within minutes. It gives me the full flexibility to structure deals that matches my clients specifications. PVDATA automates the entire project finance modelling for you which makes my work much easier. </blockquote>
-                                        <p class="f300-l f400-m f500 mt400">Taylor S., Associate at CIBC Capital Markets</p>
+                                        <blockquote class="f500-m f600-l f700 ff-recoleta fw-semibold">The world needs to achieve a green energy transition very fast. The latest IPCC report leaves no room for delay or inaction. Renewables are the way forward to complete the change. Solar energy is the friendliest and easiest energy source to handle. PVDATA is the most versatile and straightforward energy source to deploy. Whether you install a few Wp or a few GWp, PVDATA will guide you to the right decision in minutes. So simple that even fossil fuel companies can use it. </blockquote>
+                                        <p class="f300-l f400-m f500 mt400">Dr. Ioannis Tsipouridis Renewable Energy Consultant Engineer Director RED Pro Climate & Energy Consultants Ltd.</p>
                                     </div>
                                     <div class="b--neutral-200 bt dn flex-l items-center justify-between pt500" >
                                         <div class="inline-flex">
@@ -614,8 +614,8 @@ Home
                                         </div>
                                     </div>
                                     <div class="mb500-l"  style="margin-bottom: 4.77778rem; margin-top: 2rem;">
-                                        <blockquote class="f500-m f600-l f700 ff-recoleta fw-semibold">3. This is an exciting data tool that enables me to structure multiple solar deals within minutes. It gives me the full flexibility to structure deals that matches my clients specifications. PVDATA automates the entire project finance modelling for you which makes my work much easier. </blockquote>
-                                        <p class="f300-l f400-m f500 mt400">Luka Dukich, Senior Digital Content Manager with the Chicago Bulls</p>
+                                        <blockquote class="f500-m f600-l f700 ff-recoleta fw-semibold">This is an exciting data tool that enables me to structure multiple solar deals within minutes. It gives me the full flexibility to structure deals that matches my clients specifications. PVDATA automates the entire project finance modelling for you which makes my work much easier.</blockquote>
+                                        <p class="f300-l f400-m f500 mt400">Taylor S., Associate at CIBC Capital Markets</p>
                                     </div>
                                     <div class="b--neutral-200 bt dn flex-l items-center justify-between pt500">
                                         <div class="inline-flex">
