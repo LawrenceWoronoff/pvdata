@@ -747,7 +747,7 @@ Home
             </div>
         </section>
         <!--  Customer Testimonials Section -->
-        <section class="c--text-inverse py700 section" style="padding: 100px 0px; height: 100%; background-color: #201e9c; color: white;">
+        <section class="c--text-inverse py700 section bg--purple-900" style="padding: 100px 0px; height: 100%; color: white;">
             <h2 class="text-white text-align-center">Read what our customers say</h2>
 
             <div class="flex-wrap row h-100p">
