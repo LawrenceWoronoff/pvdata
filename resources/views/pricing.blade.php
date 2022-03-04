@@ -13,8 +13,14 @@ Pricing
     <main class="Main Main--hasSticky" data-amp-auto-lightbox-disable="" id="content">
         <section class="bg--background-light pb800 pb850-l section">
             <div class="row">
-                <div class="col mw-100p-l mw-66p-ns px350 tc-ns tl-l w-100p">
-                    <h1 class="f800 mb0">Try PVDATA for free </h1>
+                <div class="col mw-100p-l mw-66p-ns px350 tc-ns tl-l w-100p">                    
+                    <h1 class="f800 mb0">Subscribe to PVDATA and 
+                        <u class="underline--grow">
+                            <span class="relative z1"> cancel anytime  </span>
+                            <span class="bg--yellow-500 line z0 amp-wp-0ca7be3" data-amp-original-style="height: 16px; bottom:0;"></span>
+                        </u>
+                        <amp-position-observer intersection-ratios="0 1" layout="nodisplay" on="enter:underlineGrow.start;exit:underlineGrow.start,underlineGrow.reverse" class="i-amphtml-layout-nodisplay" hidden="hidden" i-amphtml-layout="nodisplay"></amp-position-observer>
+                    </h1>
                     <p class="mt0 mt350-l">Enjoy our software for free and upgrade for more features anytime.  </p>
                 </div>
             </div>
@@ -24,7 +30,7 @@ Pricing
                 <div class="col mw-100p mw-20p-l mw-83p-ns pt650-l px350 w-100p">
                     <div class="PricingBox b--neutral-200 ba bg--neutral-0 br600 flex flex-column h-100p">
                         <div class="b--neutral-200 bb bw600 pa450">
-                            <h2 class="f500 mt200">Free Plan </h2>
+                            <h2 class="f500 mt200">Trial Plan </h2>
                             <p class="f300 mt300">$0 per user/month </p>
                             <div class="Card-body mt350 pa0 sl_swap" id="pricing-box-cta-standard">
                                 <a class="button db w-100p" style="font-size: 14px;" id="Free_plan_start_download" target="_blank">Start Your Free Analysis</a>
