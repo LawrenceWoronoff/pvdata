@@ -14,14 +14,14 @@ Pricing
         <section class="bg--background-light pb800 pb850-l section">
             <div class="row">
                 <div class="col mw-100p-l mw-66p-ns px350 tc-ns tl-l w-100p">                    
-                    <h1 class="f800 mb0">Subscribe to PVDATA and 
+                    <h1 class="f800 mb0">Subscribe to PVDATA, 
                         <u class="underline--grow">
                             <span class="relative z1"> cancel anytime  </span>
                             <span class="bg--yellow-500 line z0 amp-wp-0ca7be3" data-amp-original-style="height: 16px; bottom:0;"></span>
                         </u>
-                        <amp-position-observer intersection-ratios="0 1" layout="nodisplay" on="enter:underlineGrow.start;exit:underlineGrow.start,underlineGrow.reverse" class="i-amphtml-layout-nodisplay" hidden="hidden" i-amphtml-layout="nodisplay"></amp-position-observer>
+                        <amp-position-observer intersection-ratios="1 0" layout="nodisplay" on="enter:underlineGrow.start;exit:underlineGrow.start,underlineGrow.reverse" class="i-amphtml-layout-nodisplay" hidden="hidden" i-amphtml-layout="nodisplay"></amp-position-observer>
                     </h1>
-                    <p class="mt0 mt350-l">Enjoy our software for free and upgrade for more features anytime.  </p>
+                    <p class="mt0 mt350-l">Enjoy our software and all of its features.  </p>
                 </div>
             </div>
         </section>
