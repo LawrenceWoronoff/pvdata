@@ -676,7 +676,7 @@
         <link rel="preload" as="script" href="https://cdn.ampproject.org/v0.js">
         <link rel="preload" href="https:///cdn.optimizely.com/js/18179512350.js" as="script">
         <link rel="preload" as="style" href="https://pro.fontawesome.com/releases/v5.13.0/css/all.css" onload="this.rel='stylesheet'">
-        <link rel="stylesheet" href="{{ url('public/css/custom.css') }}">
+        <link rel="stylesheet" href="{{ url('css/custom.css') }}">
 
         
         <script type="text/javascript" src="https://cdn.ampproject.org/v0.js" id="amp-runtime-js" async></script>       <!-- This is a script which uses for image sliders and so on.--->
