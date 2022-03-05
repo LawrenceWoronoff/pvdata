@@ -14,7 +14,7 @@ Pricing
         <section class="bg--background-light pb800 pb850-l section">
             <div class="row">
                 <div class="col mw-100p-l mw-66p-ns px350 tc-ns tl-l w-100p">                    
-                    <h1 class="f800 mb0">Subscribe to PVDATA, 
+                    <h1 class="f800 mb0">Subscribe now, 
                         <u class="underline--grow">
                             <span class="relative z1"> cancel anytime  </span>
                             <span class="bg--yellow-500 line z0 amp-wp-0ca7be3" data-amp-original-style="height: 16px; bottom:0;"></span>
