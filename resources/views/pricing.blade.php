@@ -117,7 +117,7 @@ Pricing
                         <div class="b--neutral-200 bb bw600 pa450 pt600-l">
                             <span class="bg--purple-700 br--x c--text-inverse f200 fw-bold px400 py200 z0" style="background-color: #6f5ed3; border-radius: 2000vw;"> Most Popular </span>
                             <h2 class="f500 mt400">Subscription</h2>
-                            <p class="f700 mt300">$160 </p>
+                            <p class="f700 mt300">$200 </p>
                             
                             <p class="f200 fw-semibold mt300">
                                 Get 25% off your first month with discount code “MXS32XZw”
