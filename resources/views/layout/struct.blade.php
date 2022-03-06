@@ -4880,7 +4880,11 @@
                                     </li>
                                     <li class="mt0">
                                         <a class="db c--neutral-700 hover-c--neutral-800 py300 ">Admin
-                                                    </a>
+                                        </a>
+                                    </li>
+                                    <li class="mt0">
+                                        <a class="db c--neutral-700 hover-c--neutral-800 py300 ">info@pvdata.io
+                                        </a>
                                     </li>
                                 </ul>
                             </nav>
@@ -4907,6 +4911,11 @@
                                     <a class="db c--neutral-700 hover-c--neutral-800 f200 ">
                                     Admin
                                             </a>
+                                </li>
+                                <li class="mt200">
+                                    <a class="db c--neutral-700 hover-c--neutral-800 f200 ">
+                                        info@pvdata.io
+                                    </a>
                                 </li>
                             </ul>
                         </nav>

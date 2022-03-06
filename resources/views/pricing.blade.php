@@ -31,11 +31,9 @@ Pricing
                     <div class="PricingBox b--neutral-200 ba bg--neutral-0 br600 flex flex-column h-100p">
                         <div class="b--neutral-200 bb bw600 pa450">
                             <h2 class="f500 mt200">Trial Plan </h2>
-                            <p class="f300 mt300">$0 per user/month </p>
-                            <div class="Card-body mt350 pa0 sl_swap" id="pricing-box-cta-standard">
-                                <a class="button db w-100p" style="font-size: 14px;" id="Free_plan_start_download" target="_blank">Start Your Free Analysis</a>
-                            </div>
-                            <p class="f200 fw-semibold mt300">No credit card required </p>
+                            <p class="f700 mt300">$0</p>
+                            
+                            <p class="f200 fw-semibold mt300">Only 3 free reports</p>
                         </div>
                         <div class="grow-1 pb450 tl">
                             <div class="h-100p">
@@ -45,9 +43,9 @@ Pricing
                                             <li class="mt0-ns pt450 px450">
                                                 <span>Limited Access</span>
                                             </li>
-                                            <li class="fw-bold mt0-ns pt400 px450">
+                                            <!-- <li class="fw-bold mt0-ns pt400 px450">
                                                 <span>Free package: </span>
-                                            </li>
+                                            </li> -->
                                             
                                             <li class="mt400 px450 relative">
                                                 <div class="relative">
@@ -119,12 +117,10 @@ Pricing
                         <div class="b--neutral-200 bb bw600 pa450 pt600-l">
                             <span class="bg--purple-700 br--x c--text-inverse f200 fw-bold px400 py200 z0" style="background-color: #6f5ed3; border-radius: 2000vw;"> Most Popular </span>
                             <h2 class="f500 mt400">Subscription</h2>
-                            <p class="f300 mt300">$200 per user/month </p>
-                            <div class="Card-body mt350 pa0 sl_swap" id="pricing-box-cta-professional">
-                                <a class="button db w-100p" style="font-size: 14px;" id="Subscription_plan_start_download" target="_blank">Start Your Free Analysis </a>
-                            </div>
+                            <p class="f700 mt300">$160 </p>
+                            
                             <p class="f200 fw-semibold mt300">
-                                No credit card required
+                                Get 25% off your first month with discount code “MXS32XZw”
                             </p>
                         </div>
                         <div class="grow-1 pb450 tl">
@@ -135,9 +131,9 @@ Pricing
                                             <li class="mt0-ns pt450 px450">
                                                 <span>Unlimited Access</span>
                                             </li>
-                                            <li class="fw-bold mt0-ns pt400 px450">
+                                            <!-- <li class="fw-bold mt0-ns pt400 px450">
                                                 <span>Subscription package: </span>
-                                            </li>
+                                            </li> -->
                                             
                                             <li class="mt400 px450 relative">
                                                 <div class="relative">
@@ -214,13 +210,11 @@ Pricing
                     <div class="PricingBox b--neutral-200 ba bg--neutral-0 br600 flex flex-column h-100p">
                         <div class="b--neutral-200 bb bw600 pa450">
                             <h2 class="f500 mt200">Pay as you Go </h2>
-                            <p class="f300 mt300">$450 per report </p>
-                            <div class="Card-body mt350 pa0 sl_swap" id="pricing-box-cta-advanced">
-                                <a class="button db w-100p" style="font-size: 14px;" id="payAsYouGoPlan_start_download" target="_blank">Start Your Free Analysis </a>
-                            </div>
-                            <p class="f200 fw-semibold mt300">
+                            <p class="f700 mt300">$450</p>
+                            
+                            <!-- <p class="f200 fw-semibold mt300">
                                 No credit card required
-                            </p>
+                            </p> -->
                         </div>
                         <div class="grow-1 pb450 tl">
                             <div class="h-100p">
@@ -230,9 +224,9 @@ Pricing
                                             <li class="mt0-ns pt450 px450">
                                                 <span>For users who do less than 3 solar projects per year</span>
                                             </li>
-                                            <li class="fw-bold mt0-ns pt400 px450">
+                                            <!-- <li class="fw-bold mt0-ns pt400 px450">
                                                 <span>Pay as You Go : </span>
-                                            </li>
+                                            </li> -->
                                             
                                             <li class="mt400 px450 relative">
                                                 <div class="relative">
@@ -310,12 +304,9 @@ Pricing
                         <div class="b--neutral-200 bb bw600 pa450">
                             <h2 class="f500 mt200">Corporate License </h2>
                             <p class="f300 mt300">Contact us </p>
-                            <div class="Card-body mt350 pa0 sl_swap" id="pricing-box-cta-advanced">
-                                <a class="button db w-100p" on="tap:contact-modal.open,AMP.setState({newsletterForm: {details: 'NewsletterSignup-FooterDesktop'}})" style="font-size: 14px;">Contact us </a>
-                            </div>
-                            <p class="f200 fw-semibold mt300">
+                            <!-- <p class="f200 fw-semibold mt300">
                                 No credit card required
-                            </p>
+                            </p> -->
                         </div>
                         <div class="grow-1 pb450 tl">
                             <div class="h-100p">
@@ -325,9 +316,9 @@ Pricing
                                             <li class="mt0-ns pt450 px450">
                                                 <span>Corporate users with 10+ users</span>
                                             </li>
-                                            <li class="fw-bold mt0-ns pt400 px450">
+                                            <!-- <li class="fw-bold mt0-ns pt400 px450">
                                                 <span>Corporate package: </span>
-                                            </li>
+                                            </li> -->
                                             
                                             <li class="mt400 px450 relative">
                                                 <div class="relative">
