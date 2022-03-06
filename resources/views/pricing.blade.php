@@ -33,7 +33,7 @@ Pricing
                             <h2 class="f500 mt200">Trial Plan </h2>
                             <p class="f700 mt300">$0</p>
                             
-                            <p class="f200 fw-semibold mt300">Only 3 free reports</p>
+                            <p class="f200 fw-normal mt300">Only 3 free reports</p>
                         </div>
                         <div class="grow-1 pb450 tl">
                             <div class="h-100p">
@@ -117,9 +117,16 @@ Pricing
                         <div class="b--neutral-200 bb bw600 pa450 pt600-l">
                             <span class="bg--purple-700 br--x c--text-inverse f200 fw-bold px400 py200 z0" style="background-color: #6f5ed3; border-radius: 2000vw;"> Most Popular </span>
                             <h2 class="f500 mt400">Subscription</h2>
-                            <p class="f700 mt300">$200 </p>
                             
-                            <p class="f200 fw-semibold mt300">
+                            <div class="flex-ns mt300">
+                                <p class="f700 mt300">$200</p>
+                                <div style="margin-left: 10px;">
+                                    <p class="f200 mt300">per month</p>
+                                    <p class="f200 mt0">per user</p>
+                                </div>
+                            </div>
+                            
+                            <p class="f200 fw-normal mt300">
                                 Get 25% off your first month with discount code “MXS32XZw”
                             </p>
                         </div>
@@ -210,7 +217,11 @@ Pricing
                     <div class="PricingBox b--neutral-200 ba bg--neutral-0 br600 flex flex-column h-100p">
                         <div class="b--neutral-200 bb bw600 pa450">
                             <h2 class="f500 mt200">Pay as you Go </h2>
-                            <p class="f700 mt300">$450</p>
+                            <div class="flex-ns mt300">
+                                <p class="f700 mt300">$450</p>
+                                <p class="f200 mt300"  style="margin-left: 10px;">per report</p>
+                            </div>
+                            
                             
                             <!-- <p class="f200 fw-semibold mt300">
                                 No credit card required
