@@ -43,7 +43,7 @@ Pricing
                                     <div>
                                         <ul class="f300-l f400 flex flex-column h-100p list pl0">
                                             <li class="mt0-ns pt450 px450">
-                                                <span>Limited access to features </span>
+                                                <span>Limited Access</span>
                                             </li>
                                             <li class="fw-bold mt0-ns pt400 px450">
                                                 <span>Free package: </span>
@@ -53,7 +53,7 @@ Pricing
                                                 <div class="relative">
                                                     <span class="flex">
                                                         <i class="fa-check-circle fas mr300 mt200"></i>
-                                                        1 user access
+                                                        3 reports only
                                                     </span>
                                                 </div>
                                             </li>
@@ -61,16 +61,7 @@ Pricing
                                                 <div class="relative">
                                                     <span class="flex">
                                                         <i class="fa-check-circle fas mr300 mt200"></i>
-                                                        Limited access to platform features
-                                                    </span>
-                                                </div>
-                                            </li>
-                                            
-                                            <li class="mt400 px450 relative">
-                                                <div class="relative">
-                                                    <span class="flex">
-                                                        <i class="fa-check-circle fas mr300 mt200"></i>
-                                                        Unlimited solar structure
+                                                        Financial cashflow
                                                     </span>
                                                 </div>
                                             </li>
@@ -79,7 +70,16 @@ Pricing
                                                 <div class="relative">
                                                     <span class="flex">
                                                         <i class="fa-check-circle fas mr300 mt200"></i>
-                                                        Access to more than 12,000+ locations
+                                                        Environmental impact report
+                                                    </span>
+                                                </div>
+                                            </li>
+                                            
+                                            <li class="mt400 px450 relative">
+                                                <div class="relative">
+                                                    <span class="flex">
+                                                        <i class="fa-check-circle fas mr300 mt200"></i>
+                                                        Design & technical report
                                                     </span>
                                                 </div>
                                             </li>
@@ -87,7 +87,7 @@ Pricing
                                                 <div class="relative">
                                                     <span class="flex">
                                                         <i class="fa-check-circle fas mr300 mt200"></i>
-                                                        Access to live environmental and GIS data.
+                                                        Access to 96 countries & 12,000+ towns and cities
                                                     </span>
                                                 </div>
                                             </li>
@@ -95,7 +95,7 @@ Pricing
                                                 <div class="relative">
                                                     <span class="flex">
                                                         <i class="fa-check-circle fas mr300 mt200"></i>
-                                                        Customisable project finance cashflow
+                                                        Solar size between 1MW to 10,000 MW
                                                     </span>
                                                 </div>
                                             </li>
@@ -103,7 +103,7 @@ Pricing
                                                 <div class="relative">
                                                     <span class="flex">
                                                         <i class="fa-check-circle fas mr300 mt200"></i>
-                                                        Access to due diligence reporting.
+                                                        Structure solar project in any currency
                                                     </span>
                                                 </div>
                                             </li>
@@ -133,7 +133,7 @@ Pricing
                                     <div>
                                         <ul class="f300-l f400 flex flex-column h-100p list pl0">
                                             <li class="mt0-ns pt450 px450">
-                                                <span>Essential package for teams </span>
+                                                <span>Unlimited Access</span>
                                             </li>
                                             <li class="fw-bold mt0-ns pt400 px450">
                                                 <span>Subscription package: </span>
@@ -143,7 +143,7 @@ Pricing
                                                 <div class="relative">
                                                     <span>
                                                         <i class="fa-check-circle fas mr300 mt200"></i>
-                                                        Up to 25 users
+                                                        Unlimited reports
                                                     </span>
                                                 </div>
                                             </li>
@@ -151,7 +151,7 @@ Pricing
                                                 <div class="relative">
                                                     <span>
                                                         <i class="fa-check-circle fas mr300 mt200"></i>
-                                                        Unlimited annual access to platform.
+                                                        Financial cashflow
                                                     </span>
                                                 </div>
                                             </li>
@@ -159,7 +159,7 @@ Pricing
                                                 <div class="relative">
                                                     <span>
                                                         <i class="fa-check-circle fas mr300 mt200"></i>
-                                                        Unlimited solar structure
+                                                        Environmental impact report
                                                     </span>
                                                 </div>
                                             </li>
@@ -167,7 +167,7 @@ Pricing
                                                 <div class="relative">
                                                     <span>
                                                         <i class="fa-check-circle fas mr300 mt200"></i>
-                                                        Access to more than 12,000+ locations
+                                                        Design & technical report
                                                     </span>
                                                 </div>
                                             </li>
@@ -175,7 +175,7 @@ Pricing
                                                 <div class="relative">
                                                     <span>
                                                         <i class="fa-check-circle fas mr300 mt200"></i>
-                                                        Access to live environmental and GIS data.
+                                                        Access to 96 countries & 12,000+ towns and cities
                                                     </span>
                                                 </div>
                                             </li>
@@ -183,7 +183,7 @@ Pricing
                                                 <div class="relative">
                                                     <span>
                                                         <i class="fa-check-circle fas mr300 mt200"></i>
-                                                        Customisable project finance cashflow
+                                                        Solar size between 1MW to 10,000 MW
                                                     </span>
                                                 </div>
                                             </li>
@@ -191,7 +191,7 @@ Pricing
                                                 <div class="relative">
                                                     <span>
                                                         <i class="fa-check-circle fas mr300 mt200"></i>
-                                                        Access to due diligence reporting.
+                                                        Structure solar project in any currency
                                                     </span>
                                                 </div>
                                             </li>
@@ -199,23 +199,7 @@ Pricing
                                                 <div class="relative">
                                                     <span>
                                                         <i class="fa-check-circle fas mr300 mt200"></i>
-                                                        Email, save and download reports.
-                                                    </span>
-                                                </div>
-                                            </li>
-                                            <li class="mt400 px450 relative">
-                                                <div class="relative">
-                                                    <span>
-                                                        <i class="fa-check-circle fas mr300 mt200"></i>
-                                                        Collaborate with teams.
-                                                    </span>
-                                                </div>
-                                            </li>
-                                            <li class="mt400 px450 relative">
-                                                <div class="relative">
-                                                    <span>
-                                                        <i class="fa-check-circle fas mr300 mt200"></i>
-                                                        Cancel anytime 
+                                                        Email, save and download feature enabled for all reports
                                                     </span>
                                                 </div>
                                             </li>
@@ -244,7 +228,7 @@ Pricing
                                     <div>
                                         <ul class="f300-l f400 flex flex-column h-100p list pl0">
                                             <li class="mt0-ns pt450 px450">
-                                                <span>For businesses doing less than 4 solar deals per year</span>
+                                                <span>For users who do less than 3 solar projects per year</span>
                                             </li>
                                             <li class="fw-bold mt0-ns pt400 px450">
                                                 <span>Pay as You Go : </span>
@@ -254,7 +238,7 @@ Pricing
                                                 <div class="relative">
                                                     <span>
                                                         <i class="fa-check-circle fas mr300 mt200"></i>
-                                                        Up to 25 users
+                                                        Charged for every successful report simulation
                                                     </span>
                                                 </div>
                                             </li>
@@ -262,7 +246,7 @@ Pricing
                                                 <div class="relative">
                                                     <span>
                                                         <i class="fa-check-circle fas mr300 mt200"></i>
-                                                        Unlimited solar structure
+                                                        Financial cashflow
                                                     </span>
                                                 </div>
                                             </li>
@@ -270,7 +254,7 @@ Pricing
                                                 <div class="relative">
                                                     <span>
                                                         <i class="fa-check-circle fas mr300 mt200"></i>
-                                                        Access to more than 12,000+ locations
+                                                        Environmental impact report
                                                     </span>
                                                 </div>
                                             </li>
@@ -278,7 +262,7 @@ Pricing
                                                 <div class="relative">
                                                     <span>
                                                         <i class="fa-check-circle fas mr300 mt200"></i>
-                                                        Access to live environmental and GIS data.
+                                                        Design & technical report
                                                     </span>
                                                 </div>
                                             </li>
@@ -286,7 +270,7 @@ Pricing
                                                 <div class="relative">
                                                     <span>
                                                         <i class="fa-check-circle fas mr300 mt200"></i>
-                                                        Customisable project finance cashflow
+                                                        Access to 96 countries & 12,000+ towns and cities
                                                     </span>
                                                 </div>
                                             </li>
@@ -294,7 +278,7 @@ Pricing
                                                 <div class="relative">
                                                     <span>
                                                         <i class="fa-check-circle fas mr300 mt200"></i>
-                                                        Access to due diligence reporting
+                                                        Solar size between 1MW to 10,000 MW
                                                     </span>
                                                 </div>
                                             </li>
@@ -302,7 +286,7 @@ Pricing
                                                 <div class="relative">
                                                     <span>
                                                         <i class="fa-check-circle fas mr300 mt200"></i>
-                                                        Email, save and download reports
+                                                        Structure solar project in any currency
                                                     </span>
                                                 </div>
                                             </li>
@@ -310,23 +294,7 @@ Pricing
                                                 <div class="relative">
                                                     <span>
                                                         <i class="fa-check-circle fas mr300 mt200"></i>
-                                                        Collaborate with teams
-                                                    </span>
-                                                </div>
-                                            </li>
-                                            <li class="mt400 px450 relative">
-                                                <div class="relative">
-                                                    <span>
-                                                        <i class="fa-check-circle fas mr300 mt200"></i>
-                                                        Pay for every new debt cashflow and due diligence report generation
-                                                    </span>
-                                                </div>
-                                            </li>
-                                            <li class="mt400 px450 relative">
-                                                <div class="relative">
-                                                    <span>
-                                                        <i class="fa-check-circle fas mr300 mt200"></i>
-                                                        Cancel anytime
+                                                        Email, save and download feature enabled for all reports
                                                     </span>
                                                 </div>
                                             </li>
@@ -355,7 +323,7 @@ Pricing
                                     <div>
                                         <ul class="f300-l f400 flex flex-column h-100p list pl0">
                                             <li class="mt0-ns pt450 px450">
-                                                <span>Essential package for large teams </span>
+                                                <span>Corporate users with 10+ users</span>
                                             </li>
                                             <li class="fw-bold mt0-ns pt400 px450">
                                                 <span>Corporate package: </span>
@@ -365,7 +333,7 @@ Pricing
                                                 <div class="relative">
                                                     <span>
                                                         <i class="fa-check-circle fas mr300 mt200"></i>
-                                                        More than 50+ users
+                                                        Unlimited reports
                                                     </span>
                                                 </div>
                                             </li>
@@ -373,7 +341,7 @@ Pricing
                                                 <div class="relative">
                                                     <span>
                                                         <i class="fa-check-circle fas mr300 mt200"></i>
-                                                        Unlimited annual access to platform
+                                                        Financial cashflow
                                                     </span>
                                                 </div>
                                             </li>
@@ -381,7 +349,7 @@ Pricing
                                                 <div class="relative">
                                                     <span>
                                                         <i class="fa-check-circle fas mr300 mt200"></i>
-                                                        Unlimited solar structure
+                                                        Environmental impact report
                                                     </span>
                                                 </div>
                                             </li>
@@ -389,7 +357,7 @@ Pricing
                                                 <div class="relative">
                                                     <span>
                                                         <i class="fa-check-circle fas mr300 mt200"></i>
-                                                        Access to more than 12,000+ locations
+                                                        Design & technical report
                                                     </span>
                                                 </div>
                                             </li>
@@ -397,7 +365,7 @@ Pricing
                                                 <div class="relative">
                                                     <span>
                                                         <i class="fa-check-circle fas mr300 mt200"></i>
-                                                        Access to live environmental and GIS data
+                                                        Access to 96 countries & 12,000+ towns and cities
                                                     </span>
                                                 </div>
                                             </li>
@@ -405,7 +373,7 @@ Pricing
                                                 <div class="relative">
                                                     <span>
                                                         <i class="fa-check-circle fas mr300 mt200"></i>
-                                                        Customisable project finance cashflow
+                                                        Solar size between 1MW to 10,000 MW
                                                     </span>
                                                 </div>
                                             </li>
@@ -413,7 +381,7 @@ Pricing
                                                 <div class="relative">
                                                     <span>
                                                         <i class="fa-check-circle fas mr300 mt200"></i>
-                                                        Access to due diligence reporting
+                                                        Structure solar project in any currency
                                                     </span>
                                                 </div>
                                             </li>
@@ -421,15 +389,7 @@ Pricing
                                                 <div class="relative">
                                                     <span>
                                                         <i class="fa-check-circle fas mr300 mt200"></i>
-                                                        Email, save and download reports
-                                                    </span>
-                                                </div>
-                                            </li>
-                                            <li class="mt400 px450 relative">
-                                                <div class="relative">
-                                                    <span>
-                                                        <i class="fa-check-circle fas mr300 mt200"></i>
-                                                        Collaborate with teams
+                                                        Email, save and download feature enabled for all reports
                                                     </span>
                                                 </div>
                                             </li>
