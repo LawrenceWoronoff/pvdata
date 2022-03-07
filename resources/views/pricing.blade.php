@@ -31,7 +31,7 @@ Pricing
                     <div class="PricingBox b--neutral-200 ba bg--neutral-0 br600 flex flex-column h-100p">
                         <div class="b--neutral-200 bb bw600 pa450">
                             <h2 class="f500 mt200">Trial Plan </h2>
-                            <p class="f700 mt300">$0</p>
+                            <p class="f800 mt300">$0</p>
                             
                             <p class="f200 fw-normal mt300">Only 3 free reports</p>
                         </div>
@@ -119,7 +119,7 @@ Pricing
                             <h2 class="f500 mt400">Subscription</h2>
                             
                             <div class="flex-ns mt300">
-                                <p class="f700 mt300">$200</p>
+                                <p class="f800 mt300">$200</p>
                                 <div style="margin-left: 10px;">
                                     <p class="f200 mt300">per month</p>
                                     <p class="f200 mt0">per user</p>
@@ -127,7 +127,7 @@ Pricing
                             </div>
                             
                             <p class="f200 fw-normal mt300">
-                                Get 25% off your first month with discount code “MXS32XZw”
+                                Subscribe now and get 25% off your first 3-month’s purchase
                             </p>
                         </div>
                         <div class="grow-1 pb450 tl">
@@ -218,7 +218,7 @@ Pricing
                         <div class="b--neutral-200 bb bw600 pa450">
                             <h2 class="f500 mt200">Pay as you Go </h2>
                             <div class="flex-ns mt300">
-                                <p class="f700 mt300">$450</p>
+                                <p class="f800 mt300">$450</p>
                                 <p class="f200 mt300"  style="margin-left: 10px;">per report</p>
                             </div>
                             

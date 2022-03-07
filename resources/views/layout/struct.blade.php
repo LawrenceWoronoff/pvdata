@@ -4431,6 +4431,8 @@
                         <div class="dn db-l" data-amp-bind-class="navState.mobile ? 'db w-100p' : 'dn db-l'">
                             <div class="bg--aqua-1100 bg--neutral-100-l flex inline-flex-l flex-column flex-row-l h500-l items-center-l w-100p">
                                 <div class="db flex-l" style="cursor:pointer">
+                                <span class="dn dib-l mr400" style="color:black;">info@pvdata.io</span>
+
                                     <a href="https://calendly.com/pvdata_meeting" target="_blank">
                                         <div class="flex items-center mobile-menu">
                                             <span class="dn dib-l fw-bold mr400" style="color:black;">Book a meeting</span>
